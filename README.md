@@ -41,7 +41,7 @@ I'm a passionate **AI and Machine Learning Engineer** on a mission to build inte
 ## 📱 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srichaithanya-maddi-7aa17b28a/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srichaithanya)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maddisrichaithanya@gmail.com)
 
 ---
 
@@ -65,8 +65,7 @@ I'm a passionate **AI and Machine Learning Engineer** on a mission to build inte
 I'm always open to interesting conversations, collaborations, and opportunities in AI/ML and software development. Feel free to reach out!
 
 - 💼 **LinkedIn**: [M. Srichaithanya](https://www.linkedin.com/in/srichaithanya-maddi-7aa17b28a/)
-- 📝 **Medium**: [@srichaithanya](https://medium.com/@srichaithanya)
-- 📧 **Email**: Connect via LinkedIn or Medium
+- 📧 **Email**: [maddisrichaithanya@gmail.com](mailto:maddisrichaithanya@gmail.com)
 
 ---
 
